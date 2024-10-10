@@ -1,2 +1,3 @@
 Name: Sujal Bochkar
 Fathers Name: Yogesh 
+Area of Specialization: B.Tech Computer Science 
